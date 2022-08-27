@@ -79,3 +79,13 @@ main {
     grid-template-columns: 70% 30%;
     
 }
+
+.side {
+    padding-top: 50px;
+}
+
+.side img {
+    width: 50%;
+    height: 120px;
+    padding-bottom: 10px;
+}
